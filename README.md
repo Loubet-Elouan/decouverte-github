@@ -6,7 +6,7 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - *Simple à écrire* : quelques caractères suffisent pour mettre en forme le texte.
 - *Lisible en texte brut* : le contenu reste compréhensible sans logiciel spécialisé.
 - *Polyvalent* : pratique pour
-- les notes
+- les notes byebyebyebyebyebyebye
 - les articles,
 - les rapports et
 - la documentation.
