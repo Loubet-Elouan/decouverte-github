@@ -7,7 +7,7 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - *Lisible en texte brut* : le contenu reste compréhensible sans logiciel spécialisé.
 - *Polyvalent* : pratique pour
 - les notes byebyebyebyebyebyebye
-- les articles,
+- les articles,dzefzfez
 - les rapports et
 - la documentation.
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
